@@ -82,7 +82,11 @@ Et, dans les options du texte, juste en-desous, on peut sélectionner notre poli
 
 ### Choisir la taille du texte.
 
-Pour commencer à écrire, il suffit de cliquer avec l'outil "Texte" sur l'image. Une fois notre texte tapé, on peut l'agrandir, en le sélectionnant et en augmentant la taille de police. On peut changer sa position en utilisant les "poignées" du cadre de texte. Il vaut mieux qu'il soit aussi grand que possible, et qu'il soit positionné au milieu de la page, pour être vu immédiatement quand les gens scrollent sur leur mur Facebook.
+Pour commencer à écrire, il suffit de cliquer avec l'outil "Texte" sur l'image. Une fois notre texte tapé, on peut l'agrandir, en le sélectionnant (comme sous Word) et en augmentant la taille de police. 
+
+Pour déplacer le slogan, on peut utiliser les coins du cadre de texte (les "poignées"), ou l'outil "Déplacer", sur lequel on revient plus bas.
+
+Conseil : Il vaut mieux que le texte soit aussi grand que possible, et qu'il soit positionné au milieu de l'image, pour être vu immédiatement quand les gens scrollent sur leur mur Facebook.
 
 ![Taille du texte](gimp_01_aux/08_texte_taille.png)
 
