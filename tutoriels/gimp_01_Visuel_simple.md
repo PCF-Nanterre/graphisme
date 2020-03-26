@@ -1,13 +1,19 @@
 # 01 - Gimp pour réaliser des visuels très simples
 
 Ce tutoriel est prévu pour apprendre à utiliser les fonctions élémentaires de Gimp. Nous y réaliserons un visuel très simple : un texte sur fond uni, signé avec le logo du parti.
-Mais avant tout, il faut télécharger et installer Gimp en utilisant l'exécutable fourni [à cette adresse](https://www.gimp.org/downloads/), puis le démarrer.
+
+Mais avant de commencer, pourquoi ce logiciel ? Il y a deux raisons majeures :
+* Il est disponible gratuitement et légalement sur les trois systèmes d'exploitation principaux (Windows, MacOs, GNU/Linux), et peut donc facilement servir de standard entre des gens qui n'utilisent pas tou·te·s les mêmes solutions techniques (comme c'est notre cas au parti).
+* Même si son utilisation est plus austère, il permet d'obtenir des résultats comparables à ceux de la suite Adobe.
+* C'est un logiciel libre, qui apporte donc des garanties fortes en termes de protection des données, de sécurité, etc.
+
+Avant tout, il faut télécharger et installer Gimp en utilisant l'exécutable fourni [à cette adresse](https://www.gimp.org/downloads/), puis le démarrer.
 
 ## Créer une nouvelle image et découvrir l'interface
 
 ### Créer une nouvelle image
 
-Commençons par créer une nouvelle image. Pour ce faire, on clique sur "Fichier" en haut à gauche, puis sur "Nouvelle image".
+Commençons par créer une nouvelle image. Pour ce faire, on clique en haut à sur Fichier ⟶ Nouvelle image.
 La fenêtre suivante s'ouvre alors : elle permet de choisir les dimensions de la nouvelle image.
 
 ![Nouvelle image](gimp_01_aux/01_nouvelle_image.png)
@@ -23,7 +29,7 @@ On se retrouve donc normalement avec l'écran suivant.
 
 Il se décompose comme suit :
 * Le panneau principal contient l'image sur laquelle on est en train de travailler : ici, ce n'est encore qu'un carré blanc.
-* Le premier panneau de droite contient les calques qui constituent notre image. Nous y reviendrons.
+* Le premier panneau de droite présente les calques qui constituent notre image. Nous y reviendrons.
 * Le dernier panneau de droite présente les différents outils disponibles pour modifier l'image : brosse, pot de peinture, pipette, etc.
 * Au-dessus du panneau principal, la barre de menu permet d'accéder à des options plus précises.
 
@@ -58,7 +64,7 @@ Maintenant, l'image devrait ressembler à ceci :
 
 ![Pot de peinture](gimp_01_aux/05_fond_rouge.png)
 
-## Ajouter le texte
+## Écrire le texte
 
 On va ajouter un slogan plein de bonnes intentions : "Pour aider les soignant·e·s, restons chez nous." On va l'écrire en blanc sur le fond rouge : il faut donc commencer par sélectionner la couleur blanche dans le panneau des outils.
 
@@ -86,4 +92,45 @@ Essayons d'obtenir un résultat comme celui-là :
 
 ![Texte](gimp_01_aux/09_texte_resultat.png)
 
+## Signer avec le logo
 
+### Sa familiariser avec les calques
+
+Jetons un œil au premier panneau à droite de l'image, qui liste les différents calques de l'image :
+
+![Panneau des calques](gimp_01_aux/10_panneau_calques.png)
+
+Il y a pour l'instant 2 calques : l'arrière-plan et le texte. Cela signifie que notre image est faite de 2 couches, l'une sur l'autre.
+
+### Importer un nouveau calque
+
+On va importer notre logo sous la forme d'un nouveau calque, intercalé entre l'arrière-plan et le texte.
+
+1- On commence par récupérer la version du logo qu'on veut utiliser, par exemple [celle-ci](https://github.com/PCF-Nanterre/graphisme/blob/master/ressources/logos/pcf_ancien_blanc.png).
+
+2- On insère le calque du logo dans notre image en cliquant sur Fichier ⟶ Ouvrir en tant que calques. Un nouveau calque est apparu dans notre panneau des calques ! On fait glisser-déposer pour qu'il soit au dessus du texte :
+
+![Nouveau calque](gimp_01_aux/11_nouveau_calque.png)
+
+### Manipuler notre nouveau calque
+
+Il est néanmoins beaucoup trop gros : on va le redimensionner. Clic droit sur le nouveau calque, puis Échelle et taille du calque. On va se contenter de 100 pixels en largeur et 100 pixels en hauteur :
+
+![Taille du calque](gimp_01_aux/12_taille_calque.png)
+
+Maintenant, notre logo a la bonne taille, mais il n'est pas à la bonne place sur l'image. On va se servir de l'outil de déplacement :
+
+![Outil de déplacement](gimp_01_aux/13_deplacement.png)
+
+
+Avec l'outil de déplacement, on clique sur le logo, et on fait glisser-déposer pour le déposer où on veut, en l'occurence, un peu en dessous du texte.
+
+### Résultat
+
+Le visuel est fini. Il devrait maintenant ressembler à ceci :
+
+![Fini](gimp_01_aux/14_fini.png)
+
+Il n'y a plus qu'à :
+* L'enregistrer en faisant Fichier ⟶ Enregistrer sous. C'est ce fichier qu'il faudra ouvrir si on veut retravailler notre modèle, changer, le texte, manipuler les calques, etc.
+* L'exporter dans un format plus léger (png ou jpg), en faisant Fichier ⟶ Exporter. C'est ce fichier qu'on diffusera sur les réseaux sociaux.
