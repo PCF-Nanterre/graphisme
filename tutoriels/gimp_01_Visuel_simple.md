@@ -1,17 +1,17 @@
-# 01 - Gimp pour réaliser des visuels très simples
+# 01 - Gimp pour réaliser des visuels très simples.
 
 Ce tutoriel est prévu pour apprendre à utiliser les fonctions élémentaires de Gimp. Nous y réaliserons un visuel très simple : un texte sur fond uni, signé avec le logo du parti.
 
 Mais avant de commencer, pourquoi ce logiciel ? Il y a deux raisons majeures :
 * Il est disponible gratuitement et légalement sur les trois systèmes d'exploitation principaux (Windows, MacOs, GNU/Linux), et peut donc facilement servir de standard entre des gens qui n'utilisent pas tou·te·s les mêmes solutions techniques (comme c'est notre cas au parti).
-* Même si son utilisation est plus austère, il permet d'obtenir des résultats comparables à ceux de la suite Adobe.
+* Même si son utilisation est plus austère, il permet d'obtenir des résultats comparables à ceux de la suite Adobe. C'est un logiciel puissant, même si on l'utilise ici pour faire des choses élémentaires.
 * C'est un logiciel libre, qui apporte donc des garanties fortes en termes de protection des données, de sécurité, etc.
 
 Avant tout, il faut télécharger et installer Gimp en utilisant l'exécutable fourni [à cette adresse](https://www.gimp.org/downloads/), puis le démarrer.
 
-## Créer une nouvelle image et découvrir l'interface
+## Créer une nouvelle image et découvrir l'interface.
 
-### Créer une nouvelle image
+### Créer une nouvelle image.
 
 Commençons par créer une nouvelle image. Pour ce faire, on clique en haut à sur Fichier ⟶ Nouvelle image.
 La fenêtre suivante s'ouvre alors : elle permet de choisir les dimensions de la nouvelle image.
@@ -21,7 +21,7 @@ La fenêtre suivante s'ouvre alors : elle permet de choisir les dimensions de la
 On sait que, sur la plupart des réseaux sociaux, il y a des dimensions optimales pour qu'une image apparaisse bien, qu'elle ne soit pas rognée, etc. Sur Facebook, une image partagée ne doit pas excéder les 1200 x 630 pixels (1200 pixels de large sur 630 pixels de haut).
 Mais pour notre premier visuel, on va faire ce qu'il y a de plus simple : un carré. Au lieu des valeurs pré-remplies, il faut donc entrer, pour créer notre nouvelle image, une largeur et une hauteur toutes deux égales à 600.
 
-### Découvrir l'interface
+### Découvrir l'interface.
 
 On se retrouve donc normalement avec l'écran suivant.
 
@@ -36,11 +36,11 @@ Il se décompose comme suit :
 Nous allons immédiatement mettre les doigts dans la barre de menu, en cliquant sur l'onglet Calques ⟶ Transparence ⟶ Ajouter un canal alpha.
 Cette opération consiste à activer la transparence (le "canal alpha"), dont nous aurons besoin pour "imprimer" le logo du parti par-dessus l'image.
 
-## Colorier l'arrière-plan
+## Colorier l'arrière-plan.
 
-### Sélectionner une couleur
+### Choisir une couleur.
 
-Dans le panneau des outils, on sélectionne une couleur :
+Dans le panneau des outils, on sélectionne une couleur en cliquant sur le bouton indiqué par la flèche rouge :
 
 ![Sélection de la couleur](gimp_01_aux/03_selection_couleur_a.png)
 
@@ -48,29 +48,29 @@ On se retrouve dans la fenêtre suivante :
 
 ![Sélection de la couleur](gimp_01_aux/03_selection_couleur_b.png)
 
-Pour choisir une couleur, on peut utiliser la palette à gauche avec la souris, mais en général, quand on sait déjà laquelle on veut, on utilise directement son code HTML. En l'occurence, entrons le code d72428 : c'est un beau rouge. On valide.
+Pour choisir une couleur, on peut utiliser la palette à gauche avec la souris, mais en général, quand on sait déjà laquelle on veut, on utilise directement son code HTML (en remplissant le champ "Notation HTML"). En l'occurence, entrons le code d72428 : c'est un beau rouge. On valide.
 
-### Colorier
+### Colorier avec la couleur choisie.
 
-Il faut encore choisir l'outil "Pot de peinture", qui permet de remplir une zone de l'image avec la couleur sélectionnée :
+Il faut encore choisir l'outil "Pot de peinture" (sélectionné ci-dessous) :
 
 ![Pot de peinture](gimp_01_aux/04_pot_peinture.png)
 
-Une fois que le pot de peinture est sélectionné, il n'y a plus qu'à cliquer avec sur notre carré blanc pour le colorier entièrement. 
+Le pot de peinture permet de remplir une zone de l'image avec la couleur qu'on a choisie. Une fois qu'il est sélectionné, il n'y a plus qu'à cliquer avec sur notre carré blanc pour le colorier entièrement. 
 
-### Résultat
+### Résultat après avoir colorié.
 
 Maintenant, l'image devrait ressembler à ceci :
 
 ![Pot de peinture](gimp_01_aux/05_fond_rouge.png)
 
-## Écrire le texte
+## Écrire le texte.
 
-On va ajouter un slogan plein de bonnes intentions : "Pour aider les soignant·e·s, restons chez nous." On va l'écrire en blanc sur le fond rouge : il faut donc commencer par sélectionner la couleur blanche dans le panneau des outils.
+On va ajouter un slogan plein de bonnes intentions : "Pour aider les soignant·e·s, restons chez nous." On va l'écrire en blanc sur le fond rouge : il faut donc commencer par sélectionner la couleur blanche dans le panneau des outils (sinon, on risque d'écrire en rouge sur fond rouge...).
 
-### Choix de la police
+### Choisir la police du texte.
 
-La police dépend du sentiment qu'on veut faire passer. Ici, puisqu'on veut transmettre de la douceur et de la bienveillance, on va choisir une police ronde, douche, qui imite l'écriture manuscrite : Pacifico, qui peut être téléchargée [ici](https://www.dafont.com/fr/pacifico.font).
+La police dépend du sentiment qu'on veut faire passer. Ici, puisqu'on veut transmettre de la douceur et de la bienveillance, on va choisir une police ronde, douce, qui imite l'écriture manuscrite : Pacifico, qui peut être téléchargée [ici](https://www.dafont.com/fr/pacifico.font).
 
 On sélectionne l'outil "Texte" :
 
@@ -80,21 +80,21 @@ Et, dans les options du texte, juste en-desous, on peut sélectionner notre poli
 
 ![Options du texte](gimp_01_aux/07_texte_options.png)
 
-### Taille du texte
+### Choisir la taille du texte.
 
 Pour commencer à écrire, il suffit de cliquer avec l'outil "Texte" sur l'image. Une fois notre texte tapé, on peut l'agrandir, en le sélectionnant et en augmentant la taille de police. On peut changer sa position en utilisant les "poignées" du cadre de texte. Il vaut mieux qu'il soit aussi grand que possible, et qu'il soit positionné au milieu de la page, pour être vu immédiatement quand les gens scrollent sur leur mur Facebook.
 
 ![Taille du texte](gimp_01_aux/08_texte_taille.png)
 
-### Résultat
+### Résultat après avoir écrit le texte.
 
 Essayons d'obtenir un résultat comme celui-là :
 
 ![Texte](gimp_01_aux/09_texte_resultat.png)
 
-## Signer avec le logo
+## Signer avec le logo.
 
-### Sa familiariser avec les calques
+### Sa familiariser avec les calques.
 
 Jetons un œil au premier panneau à droite de l'image, qui liste les différents calques de l'image :
 
@@ -102,7 +102,7 @@ Jetons un œil au premier panneau à droite de l'image, qui liste les différent
 
 Il y a pour l'instant 2 calques : l'arrière-plan et le texte. Cela signifie que notre image est faite de 2 couches, l'une sur l'autre.
 
-### Importer un nouveau calque
+### Importer un nouveau calque.
 
 On va importer notre logo sous la forme d'un nouveau calque, intercalé entre l'arrière-plan et le texte.
 
@@ -112,7 +112,7 @@ On va importer notre logo sous la forme d'un nouveau calque, intercalé entre l'
 
 ![Nouveau calque](gimp_01_aux/11_nouveau_calque.png)
 
-### Manipuler notre nouveau calque
+### Manipuler notre nouveau calque.
 
 Il est néanmoins beaucoup trop gros : on va le redimensionner. Clic droit sur le nouveau calque, puis Échelle et taille du calque. On va se contenter de 100 pixels en largeur et 100 pixels en hauteur :
 
@@ -125,11 +125,13 @@ Maintenant, notre logo a la bonne taille, mais il n'est pas à la bonne place su
 
 Avec l'outil de déplacement, on clique sur le logo, et on fait glisser-déposer pour le déposer où on veut, en l'occurence, un peu en dessous du texte.
 
-### Résultat
+### Résultat après importation du logo.
 
 Le visuel est fini. Il devrait maintenant ressembler à ceci :
 
 ![Fini](gimp_01_aux/14_fini.png)
+
+## Conclusion
 
 Il n'y a plus qu'à :
 * L'enregistrer en faisant Fichier ⟶ Enregistrer sous. C'est ce fichier qu'il faudra ouvrir si on veut retravailler notre modèle, changer, le texte, manipuler les calques, etc.
