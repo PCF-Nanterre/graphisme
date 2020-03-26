@@ -2,7 +2,7 @@
 
 Ce tutoriel est prévu pour apprendre à utiliser les fonctions élémentaires de Gimp. Nous y réaliserons un visuel très simple : un texte sur fond uni, signé avec le logo du parti.
 
-Mais avant de commencer, pourquoi ce logiciel ? Il y a deux raisons majeures :
+Mais avant de commencer, pourquoi ce logiciel ? Il y a trois raisons majeures :
 * Il est disponible gratuitement et légalement sur les trois systèmes d'exploitation principaux (Windows, MacOs, GNU/Linux), et peut donc facilement servir de standard entre des gens qui n'utilisent pas tou·te·s les mêmes solutions techniques (comme c'est notre cas au parti).
 * Même si son utilisation est plus austère, il permet d'obtenir des résultats comparables à ceux de la suite Adobe. C'est un logiciel puissant, même si on l'utilise ici pour faire des choses élémentaires.
 * C'est un logiciel libre, qui apporte donc des garanties fortes en termes de protection des données, de sécurité, etc.
