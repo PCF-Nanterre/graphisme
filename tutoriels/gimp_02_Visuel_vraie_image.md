@@ -24,7 +24,9 @@ Ou même du design :
 
 ![Pomme d'or](gimp_02_aux/05_apple_or.png)
 
-On va donc essayer de suivre les proportions d'or en composant nos visuels. Heureusement, Gimp fournit ce qu'il faut pour ça.
+On va donc essayer de suivre les proportions d'or en composant nos visuels pour avoir le même succès que Raphaël ou Steve Jobs ^^ Notre but va donc être de disposer les différents éléments du visuel dans les rectangles d'or, en jouant sur leur taille pour que l'ensemble paraisse harmonieux.
+
+Évidemment, Gimp fournit ce qu'il faut pour ça.
 
 ## Ouvrir une image.
 
