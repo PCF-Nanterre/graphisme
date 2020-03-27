@@ -140,3 +140,7 @@ Le visuel est fini. Il devrait maintenant ressembler à ceci :
 Il n'y a plus qu'à :
 * L'enregistrer en faisant Fichier ⟶ Enregistrer sous. C'est ce fichier qu'il faudra ouvrir si on veut retravailler notre modèle, changer, le texte, manipuler les calques, etc.
 * L'exporter dans un format plus léger (png ou jpg), en faisant Fichier ⟶ Exporter. C'est ce fichier qu'on diffusera sur les réseaux sociaux.
+
+Ce genre d'image est peut-être très simple, mais ça ne l'empêchera pas de plaire à beaucoup de monde, la preuve :
+
+![Fini](gimp_01_aux/15_post.png)
