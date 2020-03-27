@@ -22,7 +22,7 @@ De l'histoire de l'art :
 
 Ou même du design :
 
-![Pomme d'or](gimp_02_aux/04_raphael_or.png)
+![Pomme d'or](gimp_02_aux/05_apple_or.png)
 
 On va donc essayer de suivre les proportions d'or en composant nos visuels. Heureusement, Gimp fournit ce qu'il faut pour ça.
 
@@ -47,7 +47,7 @@ On encadre l'image avec la sélection régulière, ce qui fait apparaître les g
 ![Guides](gimp_02_aux/07_guides.png)
 
 Visiblement, aucune section d'or ne permet d'écrire correctement notre texte : ce serait vraiment très petit, ou il faudrait écrire par-dessus l'image.
-Qu'à cela ne tienne, nous allons la redimensionner. Élargissons notre sélection de manière à ce que la photo de Castro soit à gauche d'un rectangle d'or, de manière à avoir la place pour écrire à sa droite :
+Qu'à cela ne tienne, nous allons la redimensionner. Élargissons notre sélection de manière à ce que la photo de Castro soit à la gauche d'un rectangle d'or (nous écrirons le texte à sa droite) :
 
 ![Guides redimension](gimp_02_aux/08_guides_redimension.png)
 
@@ -77,6 +77,6 @@ En utilisant l'outil de sélection rectangulaire, on repère les sections d'or e
 ![Résultat](gimp_02_aux/13_resultat.png)
 
 Il n'y a plus qu'à enregistrer l'image et à l'exporter en png.
-Une image comme celle-là marchera très bien, la preuve (screenshot pris le 27/03 pour un post le 25/03) :
+Une image comme celle-là marchera très bien, la preuve :
 
 ![Post](gimp_02_aux/14_post.png)
