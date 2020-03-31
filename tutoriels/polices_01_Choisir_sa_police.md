@@ -18,8 +18,6 @@ Pour installer une nouvelle police de caractères sur son ordinateur quand on es
 
 ### Les polices avec empattements (Serif)
 
-Conseil pour commencer : [Clarendon](http://fontsgeek.com/fonts/Clarendon-Regular) ou [Palatino](https://www.dafontfree.io/palatino-font-free/)
-
 Les polices Serif sont les polices les plus anciennes (elles datent du XVe siècle), celles qui ont de petits empattements à l'extrémité des lettres. 
 
 ![Serif](polices_01_aux/serif.jpg)
@@ -32,9 +30,9 @@ C'est ce sentiment de sérieux qu'une marque comme Tiffany & Co (joaillerie de l
 
 ![Tiffany & Co](polices_01_aux/tiffany.png)
 
-### Les polices sans empattements (Sans Serif)
+Conseil pour commencer : [Clarendon](http://fontsgeek.com/fonts/Clarendon-Regular) ou [Palatino](https://www.dafontfree.io/palatino-font-free/)
 
-Conseil pour commencer : [Ubuntu](https://design.ubuntu.com/font/), ou, seulement pour les titres, [Bebas Neue](https://www.dafont.com/fr/bebas-neue.font)
+### Les polices sans empattements (Sans Serif)
 
 Elles ont été mises à la mode avec l'arrivée du web mais viennent de la tradition des affichistes du XIXe siècle. Elles se caractérisent par l'absence d'empattements, qui leur donnent un caractère épuré, très lisible. 
 
@@ -43,6 +41,8 @@ Elles ont été mises à la mode avec l'arrivée du web mais viennent de la trad
 Elles renvoient une impression de décontraction et de modernité. C'est ce sentiment que Google a voulu dégager quand ils ont refait leur logo :
 
 ![Google](polices_01_aux/google.png)
+
+Conseil pour commencer : [Ubuntu](https://design.ubuntu.com/font/), ou, seulement pour les titres, [Bebas Neue](https://www.dafont.com/fr/bebas-neue.font)
 
 ### Les polices mécanes ou "égyptiennes" (Slab Serif)
 
@@ -58,8 +58,6 @@ Elles permettent d'exprimer la force, la conviction, l'agressivité. On peut les
 
 ### Les polices scriptes
 
-Conseil pour commencer : [Pacifico](https://www.dafont.com/fr/pacifico.font)
-
 Ce sont les polices qui imitent l'écriture manuscrite :
 
 ![Script](polices_01_aux/script.png)
@@ -70,9 +68,9 @@ Elles permettent d'exprimer la douceur, la chaleur, la bienveillance. C'est l'id
 
 Attention, il faut les utiliser pour des textes très courts, parce qu'elles réduisent la lisibilité.
 
-### Les polices décoratives ou "fantaisie"
+Conseil pour commencer : [Pacifico](https://www.dafont.com/fr/pacifico.font)
 
-Conseil pour commencer : [Dry Brush](https://www.dafont.com/fr/dry-brush.font)
+### Les polices décoratives ou "fantaisie"
 
 Ce sont des polices dont les caractères sortent des règles typographiques et se rapprochent davantage du dessin :
 
@@ -83,6 +81,8 @@ Elles permettent d'évoquer la créativité, le plaisir, le jeu. Ce n'est pas é
 ![Toys'R'Us](polices_01_aux/toysrus.png)
 
 Il faut les utiliser avec beaucoup de parcimonie parce qu'elles renvoient facilement un sentiment d'amateurisme ou de vulgarité.
+
+Conseil pour commencer : [Dry Brush](https://www.dafont.com/fr/dry-brush.font)
 
 ## Conseils typographiques importants
 
