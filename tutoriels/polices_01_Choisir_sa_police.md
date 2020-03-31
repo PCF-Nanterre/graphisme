@@ -1,14 +1,24 @@
 # Bien choisir sa police de caractères
 
+Il n'est pas toujours facile de savoir quelle police de caractères est utile dans quelle circonstance, ni comment les composer agréablement dans un visuel. Ce tutoriel permet d'acquérir les bases en typographie.
+
+Mais avant tout, il faut savoir installer de nouvelles polices de caractères. C'est très simple, mais tout dépend du système d'exploitation qu'on utilise : pour celles et ceux qui sont sous Windows, un petit guide est disponible [ici](https://www.windows8facile.fr/w10-installer-police-font-caracteres-ttf-otf/).
+
+Commençons par la règle la plus importante.
+
 ## Ne jamais utiliser Comic Sans MS
 
-C'est la règle la plus importante. Il ne faut jamais, jamais utiliser Comic Sans MS. À force d'avoir été mobilisée partout depuis 30 ans, cette police est devenue synonyme d'amateurisme. De manière générale, il ne faut utiliser aucune des polices standard (Times New Roman, Arial, etc). Elles ont été vues et revues partout et sont désormais imbuvables.
+Il ne faut jamais, jamais utiliser Comic Sans MS. À force d'avoir été plaquée partout depuis 30 ans, cette police est devenue synonyme d'amateurisme et de mauvaise qualité. De manière générale, il ne faut utiliser aucune des polices standard (Times New Roman, Arial, etc). Elles ont été vues et revues partout et sont désormais imbuvables.
 
 ## Les différentes familles de polices de caractères
 
 Pour bien choisir sa police/ses polices quand on fait un visuel, il faut d'abord connaître les principales familles et leurs usages. Il y en a beaucoup, mais nous ne les verrons pas toutes ici.
 
+Pour installer une nouvelle police de caractères sur son ordinateur quand on est sous Windows, un petit guide est disponible .
+
 ### Les polices avec empattements (Serif)
+
+Conseil pour commencer : [Clarendon](http://fontsgeek.com/fonts/Clarendon-Regular) ou [Palatino](https://www.dafontfree.io/palatino-font-free/)
 
 Les polices Serif sont les polices les plus anciennes (elles datent du XVe siècle), celles qui ont de petits empattements à l'extrémité des lettres. 
 
@@ -24,6 +34,8 @@ C'est ce sentiment de sérieux qu'une marque comme Tiffany & Co (joaillerie de l
 
 ### Les polices sans empattements (Sans Serif)
 
+Conseil pour commencer : [Ubuntu](https://design.ubuntu.com/font/), ou, seulement pour les titres, [Bebas Neue](https://www.dafont.com/fr/bebas-neue.font)
+
 Elles ont été mises à la mode avec l'arrivée du web mais viennent de la tradition des affichistes du XIXe siècle. Elles se caractérisent par l'absence d'empattements, qui leur donnent un caractère épuré, très lisible. 
 
 ![Linéale](polices_01_aux/lineale.png)
@@ -34,6 +46,8 @@ Elles renvoient une impression de décontraction et de modernité. C'est ce sent
 
 ### Les polices mécanes ou "égyptiennes" (Slab Serif)
 
+Conseil pour commencer : [Aleo](https://www.fontsquirrel.com/fonts/aleo) ou [Rockwell](https://www.dafontfree.net/freefonts-rockwell-f55077.htm)
+
 Les polices mécanes sont une variante des polices Serif, où les empattements sont carrément des blocs, presque rectangulaires (ce qui leur donne un aspect... mécanique). Elles sont issues de certains modèles de machines à écrire.
 
 ![Mécane](polices_01_aux/slab_serif.png)
@@ -43,6 +57,8 @@ Elles permettent d'exprimer la force, la conviction, l'agressivité. On peut les
 ![Honda](polices_01_aux/honda.png)
 
 ### Les polices scriptes
+
+Conseil pour commencer : [Pacifico](https://www.dafont.com/fr/pacifico.font)
 
 Ce sont les polices qui imitent l'écriture manuscrite :
 
@@ -55,6 +71,8 @@ Elles permettent d'exprimer la douceur, la chaleur, la bienveillance. C'est l'id
 Attention, il faut les utiliser pour des textes très courts, parce qu'elles réduisent la lisibilité.
 
 ### Les polices décoratives ou "fantaisie"
+
+Conseil pour commencer : [Dry Brush](https://www.dafont.com/fr/dry-brush.font)
 
 Ce sont des polices dont les caractères sortent des règles typographiques et se rapprochent davantage du dessin :
 
@@ -89,3 +107,11 @@ Il faut éviter de couper un mot entre deux lignes, mais également de finir un 
 ### Mettre en avant du texte
 
 Dans un bloc de texte, il est utile de mettre les parties les plus importantes en avant, par exemple en les mettant en gras : cela permet de structurer la lecture et la rend plus agréable. Mais pour que cette méthode fonctionne, il ne faut pas en abuser : si plus de 10% d'un texte est en gras par exemple, il devient illisible. De même, il ne faut pas utiliser plusieurs méthodes de mise en avant différentes (gras, italique, souligné) dans un même texte.
+
+### Accentuation des majuscules
+
+Les règles typographiques prévoient qu'on accentue aussi les lettres capitales afin de réduire l'effort du cerveau pour comprendre le texte, comme dans Élévateur ou Être. C'est moins simple sous Windows que sous Linux et Mac, il faut donc utiliser ce qu'on appelle les codes ASCII et qui sont décrits [ici](https://www.clubic.com/tutoriels/article-846166-1-comment-majuscules-accent.html). Il est toujours possible, si c'est trop compliqué, de copier-coller ces caractères depuis internet.
+
+### L'écriture inclusive et le point médian
+
+Lorsqu'on écrit un texte en écriture inclusive (citoyen·ne·s, habitant·e·s...), le point qui sépare la forme féminine et la forme masculine n'est pas le point habituel ("en bas"), car l'œil est habitué à s'arrêter quand il le croise. Cela hache la lecture. C'est un point spécial qu'il faut utiliser, le point médian, "au milieu". Sous Linux, on l'obtient avec le raccourci clavier **Alt gr + ⇧ Maj + &**. Sous Mac, c'est **Alt + ⇧ m + F**. Sous Windows, c'est **Alt + 0183**. Sinon, il est toujours possible de le copier-coller depuis internet.
