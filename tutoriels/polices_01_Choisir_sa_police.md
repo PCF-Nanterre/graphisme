@@ -12,7 +12,7 @@ Pour bien choisir sa police/ses polices quand on fait un visuel, il faut d'abord
 
 Les polices Serif sont les polices les plus anciennes (elles datent du XVe siècle), celles qui ont de petits empattements à l'extrémité des lettres. 
 
-![Serif](polices_O1_aux/serif.jpg)
+![Serif](polices_01_aux/serif.jpg)
 
 Elles ont deux utilités :
 * Quand on écrit un texte long (par exemple un tract), il faut privilégier une police Serif pour le corps du texte, parce que les empattements permettent à l'œil de structurer la lecture et de moins perdre le fil.
@@ -20,37 +20,37 @@ Elles ont deux utilités :
 
 C'est ce sentiment de sérieux qu'une marque comme Tiffany & Co (joaillerie de luxe) essaie de dégager dans son logo :
 
-![Tiffany & Co](polices_O1_aux/tiffany.png)
+![Tiffany & Co](polices_01_aux/tiffany.png)
 
 ### Les polices sans empattements (Sans Serif)
 
 Elles ont été mises à la mode avec l'arrivée du web mais viennent de la tradition des affichistes du XIXe siècle. Elles se caractérisent par l'absence d'empattements, qui leur donnent un caractère épuré, très lisible. 
 
-![Linéale](polices_O1_aux/lineale.png)
+![Linéale](polices_01_aux/lineale.png)
 
 Elles renvoient une impression de décontraction et de modernité. C'est ce sentiment que Google a voulu dégager quand ils ont refait leur logo :
 
-![Google](polices_O1_aux/google.png)
+![Google](polices_01_aux/google.png)
 
 ### Les polices mécanes ou "égyptiennes" (Slab Serif)
 
 Les polices mécanes sont une variante des polices Serif, où les empattements sont carrément des blocs, presque rectangulaires (ce qui leur donne un aspect... mécanique). Elles sont issues de certains modèles de machines à écrire.
 
-![Mécane](polices_O1_aux/slab_serif.png)
+![Mécane](polices_01_aux/slab_serif.png)
 
 Elles permettent d'exprimer la force, la conviction, l'agressivité. On peut les retrouver dans les logos de marques de voitures, comme Honda :
 
-![Honda](polices_O1_aux/honda.png)
+![Honda](polices_01_aux/honda.png)
 
 ### Les polices scriptes
 
 Ce sont les polices qui imitent l'écriture manuscrite :
 
-![Script](polices_O1_aux/script.png)
+![Script](polices_01_aux/script.png)
 
 Elles permettent d'exprimer la douceur, la chaleur, la bienveillance. C'est l'idée qu'Instagram essaie de transmettre dans son logo :
 
-![Instagram](polices_O1_aux/instagram.png)
+![Instagram](polices_01_aux/instagram.png)
 
 Attention, il faut les utiliser pour des textes très courts, parce qu'elles réduisent la lisibilité.
 
@@ -58,11 +58,11 @@ Attention, il faut les utiliser pour des textes très courts, parce qu'elles ré
 
 Ce sont des polices dont les caractères sortent des règles typographiques et se rapprochent davantage du dessin :
 
-![Déco](polices_O1_aux/deco.png)
+![Déco](polices_01_aux/deco.png)
 
 Elles permettent d'évoquer la créativité, le plaisir, le jeu. Ce n'est pas étonnant si une entreprise comme Toys'R'Us a choisi cette démarche dans son logo :
 
-![Toys'R'Us](polices_O1_aux/toysrus.png)
+![Toys'R'Us](polices_01_aux/toysrus.png)
 
 Il faut les utiliser avec beaucoup de parcimonie parce qu'elles renvoient facilement un sentiment d'amateurisme ou de vulgarité.
 
@@ -74,7 +74,7 @@ Lorsqu'on marie plusieurs polices dans un visuel (par exemple entre un titre et 
 
 Par contre, il faut limiter le nombre de polices différentes sur un même visuel. En général, 3 est un grand maximum (et quand on peut, il vaut mieux se contenter de 2).
 
-![Plusieurs polices](polices_O1_aux/plusieurs_polices.png)
+![Plusieurs polices](polices_01_aux/plusieurs_polices.png)
 
 ### Attention aux majuscules
 
@@ -84,7 +84,7 @@ Les textes "tout en majuscules" sont moins lisibles et renvoient un sentiment ag
 
 Il faut éviter de couper un mot entre deux lignes, mais également de finir un bloc de texte avec un mot tout seul : l'un et l'autre déséquilibrent la lecture.
 
-![Équilibre](polices_O1_aux/equilibre.png)
+![Équilibre](polices_01_aux/equilibre.png)
 
 ### Mettre en avant du texte
 
