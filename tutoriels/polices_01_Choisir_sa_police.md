@@ -26,35 +26,35 @@ Elles ont deux utilités :
 * Quand on écrit un texte long (par exemple un tract), il faut privilégier une police Serif pour le corps du texte, parce que les empattements permettent à l'œil de structurer la lecture et de moins perdre le fil.
 * Dans les visuels, elles renvoient une impression de sérieux, de classicisme, de "chic". Il faut les utiliser quand on veut exprimer quelque chose de solennel (par exemple une citation de Victor Hugo).
 
-C'est ce sentiment de sérieux qu'une marque comme Tiffany & Co (joaillerie de luxe) essaie de dégager dans son logo :
+C'est ce sentiment de sérieux qu'une marque comme Tiffany & Co (joaillerie de luxe) essaie de dégager dans son logo.
 
-![Tiffany & Co](polices_01_aux/tiffany.png)
+<!-- ![Tiffany & Co](polices_01_aux/tiffany.png) -->
 
 Conseil pour commencer : [Clarendon](http://fontsgeek.com/fonts/Clarendon-Regular) ou [Palatino](https://www.dafontfree.io/palatino-font-free/)
 
 ### Les polices sans empattements (Sans Serif)
 
-Elles ont été mises à la mode avec l'arrivée du web mais viennent de la tradition des affichistes du XIXe siècle. Elles se caractérisent par l'absence d'empattements, qui leur donnent un caractère épuré, très lisible. 
+Elles ont été mises à la mode avec l'arrivée du web mais viennent de la tradition des affichistes du XIXe siècle. Elles se caractérisent par l'absence d'empattements, qui leur donnent un caractère épuré, très lisible. C'est la famille de polices qui est la plus utilisée.
 
 ![Linéale](polices_01_aux/lineale.png)
 
-Elles renvoient une impression de décontraction et de modernité. C'est ce sentiment que Google a voulu dégager quand ils ont refait leur logo :
+Elles renvoient une impression de décontraction et de modernité. C'est ce sentiment que Google a voulu dégager quand ils ont refait leur logo.
 
-![Google](polices_01_aux/google.png)
+<!-- ![Google](polices_01_aux/google.png) -->
 
 Conseil pour commencer : [Ubuntu](https://design.ubuntu.com/font/), ou, seulement pour les titres, [Bebas Neue](https://www.dafont.com/fr/bebas-neue.font)
 
 ### Les polices mécanes ou "égyptiennes" (Slab Serif)
 
-Conseil pour commencer : [Aleo](https://www.fontsquirrel.com/fonts/aleo) ou [Rockwell](https://www.dafontfree.net/freefonts-rockwell-f55077.htm)
-
 Les polices mécanes sont une variante des polices Serif, où les empattements sont carrément des blocs, presque rectangulaires (ce qui leur donne un aspect... mécanique). Elles sont issues de certains modèles de machines à écrire.
 
 ![Mécane](polices_01_aux/slab_serif.png)
 
-Elles permettent d'exprimer la force, la conviction, l'agressivité. On peut les retrouver dans les logos de marques de voitures, comme Honda :
+Elles permettent d'exprimer la force, la conviction, l'agressivité. On peut les retrouver dans les logos de marques de voitures, comme Honda.
 
-![Honda](polices_01_aux/honda.png)
+<!-- ![Honda](polices_01_aux/honda.png) -->
+
+Conseil pour commencer : [Aleo](https://www.fontsquirrel.com/fonts/aleo) ou [Rockwell](https://www.dafontfree.net/freefonts-rockwell-f55077.htm)
 
 ### Les polices scriptes
 
@@ -62,9 +62,9 @@ Ce sont les polices qui imitent l'écriture manuscrite :
 
 ![Script](polices_01_aux/script.png)
 
-Elles permettent d'exprimer la douceur, la chaleur, la bienveillance. C'est l'idée qu'Instagram essaie de transmettre dans son logo :
+Elles permettent d'exprimer la douceur, la chaleur, la bienveillance. C'est l'idée qu'Instagram essaie de transmettre dans son logo.
 
-![Instagram](polices_01_aux/instagram.png)
+<!-- ![Instagram](polices_01_aux/instagram.png) -->
 
 Attention, il faut les utiliser pour des textes très courts, parce qu'elles réduisent la lisibilité.
 
@@ -76,9 +76,9 @@ Ce sont des polices dont les caractères sortent des règles typographiques et s
 
 ![Déco](polices_01_aux/deco.png)
 
-Elles permettent d'évoquer la créativité, le plaisir, le jeu. Ce n'est pas étonnant si une entreprise comme Toys'R'Us a choisi cette démarche dans son logo :
+Elles permettent d'évoquer la créativité, le plaisir, le jeu. Ce n'est pas étonnant si une entreprise comme Toys'R'Us a choisi cette démarche dans son logo.
 
-![Toys'R'Us](polices_01_aux/toysrus.png)
+<!-- ![Toys'R'Us](polices_01_aux/toysrus.png) -->
 
 Il faut les utiliser avec beaucoup de parcimonie parce qu'elles renvoient facilement un sentiment d'amateurisme ou de vulgarité.
 
