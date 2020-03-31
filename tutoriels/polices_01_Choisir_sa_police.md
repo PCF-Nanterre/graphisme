@@ -14,8 +14,6 @@ Il ne faut jamais, jamais utiliser Comic Sans MS. À force d'avoir été plaqué
 
 Pour bien choisir sa police/ses polices quand on fait un visuel, il faut d'abord connaître les principales familles et leurs usages. Il y en a beaucoup, mais nous ne les verrons pas toutes ici.
 
-Pour installer une nouvelle police de caractères sur son ordinateur quand on est sous Windows, un petit guide est disponible .
-
 ### Les polices avec empattements (Serif)
 
 Les polices Serif sont les polices les plus anciennes (elles datent du XVe siècle), celles qui ont de petits empattements à l'extrémité des lettres. 
