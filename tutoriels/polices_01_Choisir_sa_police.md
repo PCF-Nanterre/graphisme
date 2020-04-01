@@ -2,9 +2,29 @@
 
 Il n'est pas toujours facile de savoir quelle police de caractères est utile dans quelle circonstance, ni comment les composer agréablement dans un visuel. Ce tutoriel permet d'acquérir les bases en typographie.
 
-Mais avant tout, il faut savoir installer de nouvelles polices de caractères. C'est très simple, mais tout dépend du système d'exploitation qu'on utilise : pour celles et ceux qui sont sous Windows, un petit guide est disponible [ici](https://www.windows8facile.fr/w10-installer-police-font-caracteres-ttf-otf/).
+## Sommaire
 
-Commençons par la règle la plus importante.
+* [Installer de nouvelles polices de caractères](#installer-de-nouvelles-polices-de-caractères)
+* [Ne jamais utiliser Comic Sans MS](#ne-jamais-utiliser-comic-sans-ms)
+* [Les différentes familles de polices de caractères](#les-différentes-familles-de-polices-de-caractères)
+  + [Serif](#les-polices-avec-empattements-serif)
+  + [Sans Serif](#les-polices-sans-empattements-sans-serif)
+  + [Mécanes](#les-polices-mécanes-ou-égyptiennes-slab-serif)
+  + [Scriptes](#les-polices-scriptes)
+  + [Décoratives](#les-polices-décoratives-ou-fantaisie)
+* [Conseils typographiques importants](#conseils-typographiques-importants)
+  + [Marier plusieurs polices](#marier-plusieurs-polices)
+  + [Attention aux majuscules](#attention-aux-majuscules)
+  + [Équilibre](#équilibre)
+  + [Mettre en avant du texte](#mettre-en-avant-du-texte)
+  + [Accentuation des majuscules](#accentuation-des-majuscules)
+  + [L'écriture inclusive et le point médian](#lécriture-inclusive-et-le-point-médian)
+
+## Installer de nouvelles polices de caractères
+
+Mais avant tout, il faut savoir installer de nouvelles polices de caractères. C'est très simple, mais tout dépend du système d'exploitation qu'on utilise : pour celles et ceux qui sont sous Windows, un petit guide est disponible [ici](https://www.windows8facile.fr/w10-installer-police-font-caracteres-ttf-otf/), et sous Mac, [ici](https://support.apple.com/fr-fr/HT201749).
+
+Ceci fait, commençons avec la règle la plus importante.
 
 ## Ne jamais utiliser Comic Sans MS
 
@@ -20,27 +40,21 @@ Les polices Serif sont les polices les plus anciennes (elles datent du XVe sièc
 
 ![Serif](polices_01_aux/serif.jpg)
 
-Elles ont deux utilités :
-* Quand on écrit un texte long (par exemple un tract), il faut privilégier une police Serif pour le corps du texte, parce que les empattements permettent à l'œil de structurer la lecture et de moins perdre le fil.
-* Dans les visuels, elles renvoient une impression de sérieux, de classicisme, de "chic". Il faut les utiliser quand on veut exprimer quelque chose de solennel (par exemple une citation de Victor Hugo).
-
-C'est ce sentiment de sérieux qu'une marque comme Tiffany & Co (joaillerie de luxe) essaie de dégager dans son logo.
-
-<!-- ![Tiffany & Co](polices_01_aux/tiffany.png) -->
-
-Conseil pour commencer : [Clarendon](http://fontsgeek.com/fonts/Clarendon-Regular) ou [Palatino](https://www.dafontfree.io/palatino-font-free/)
+* Elles ont deux utilités :
+  + Quand on écrit un texte long (par exemple un tract), il faut privilégier une police Serif pour le corps du texte, parce que les empattements permettent à l'œil de structurer la lecture et de moins perdre le fil.
+  + Dans les visuels, elles renvoient une impression de sérieux, de classicisme, de "chic". Il faut les utiliser quand on veut exprimer quelque chose de solennel (par exemple une citation de Victor Hugo).
+* Exemple dans le monde de la communication : le logo du joailler de luxe Tiffany & Co.
+* Conseil pour commencer : [Clarendon](http://fontsgeek.com/fonts/Clarendon-Regular) ou [Palatino](https://www.dafontfree.io/palatino-font-free/).
 
 ### Les polices sans empattements (Sans Serif)
 
-Elles ont été mises à la mode avec l'arrivée du web mais viennent de la tradition des affichistes du XIXe siècle. Elles se caractérisent par l'absence d'empattements, qui leur donnent un caractère épuré, très lisible. C'est la famille de polices qui est la plus utilisée.
+Elles ont été mises à la mode avec l'arrivée du web mais viennent de la tradition des affichistes du XIXe siècle. Elles se caractérisent par l'absence d'empattements, qui leur donnent un caractère épuré, très lisible. C'est la famille de polices qui est la plus utilisée, et celle qu'il faut choisir quand on n'a pas d'idée particulière.
 
 ![Linéale](polices_01_aux/lineale.png)
 
-Elles renvoient une impression de décontraction et de modernité. C'est ce sentiment que Google a voulu dégager quand ils ont refait leur logo.
-
-<!-- ![Google](polices_01_aux/google.png) -->
-
-Conseil pour commencer : [Ubuntu](https://design.ubuntu.com/font/), ou, seulement pour les titres, [Bebas Neue](https://www.dafont.com/fr/bebas-neue.font)
+* Elles renvoient une impression de décontraction et de modernité.
+* Exemple dans le monde de la communication : le nouveau logo de Google.
+* Conseil pour commencer : [Ubuntu](https://design.ubuntu.com/font/), ou, seulement pour les titres, [Bebas Neue](https://www.dafont.com/fr/bebas-neue.font).
 
 ### Les polices mécanes ou "égyptiennes" (Slab Serif)
 
@@ -48,11 +62,9 @@ Les polices mécanes sont une variante des polices Serif, où les empattements s
 
 ![Mécane](polices_01_aux/slab_serif.png)
 
-Elles permettent d'exprimer la force, la conviction, l'agressivité. On peut les retrouver dans les logos de marques de voitures, comme Honda.
-
-<!-- ![Honda](polices_01_aux/honda.png) -->
-
-Conseil pour commencer : [Aleo](https://www.fontsquirrel.com/fonts/aleo) ou [Rockwell](https://www.dafontfree.net/freefonts-rockwell-f55077.htm)
+* Elles permettent d'exprimer la force, la conviction, l'agressivité.
+* Exemple dans le monde de la communication : le logo du fabricant automobile Honda.
+* Conseil pour commencer : [Aleo](https://www.fontsquirrel.com/fonts/aleo) ou [Rockwell](https://www.dafontfree.net/freefonts-rockwell-f55077.htm).
 
 ### Les polices scriptes
 
@@ -60,13 +72,11 @@ Ce sont les polices qui imitent l'écriture manuscrite :
 
 ![Script](polices_01_aux/script.png)
 
-Elles permettent d'exprimer la douceur, la chaleur, la bienveillance. C'est l'idée qu'Instagram essaie de transmettre dans son logo.
-
-<!-- ![Instagram](polices_01_aux/instagram.png) -->
+* Elles permettent d'exprimer la douceur, la chaleur, la bienveillance.
+* Exemple dans le monde de la communication : le logo du réseau social Instagram.
+* Conseil pour commencer : [Pacifico](https://www.dafont.com/fr/pacifico.font).
 
 Attention, il faut les utiliser pour des textes très courts, parce qu'elles réduisent la lisibilité.
-
-Conseil pour commencer : [Pacifico](https://www.dafont.com/fr/pacifico.font)
 
 ### Les polices décoratives ou "fantaisie"
 
@@ -74,19 +84,17 @@ Ce sont des polices dont les caractères sortent des règles typographiques et s
 
 ![Déco](polices_01_aux/deco.png)
 
-Elles permettent d'évoquer la créativité, le plaisir, le jeu. Ce n'est pas étonnant si une entreprise comme Toys'R'Us a choisi cette démarche dans son logo.
+* Elles permettent d'évoquer la créativité, le plaisir, le jeu.
+* Exemple dans le monde de la communication : le logo du fabricant de jouets Toys'R'Us.
+* Conseil pour commencer : [Dry Brush](https://www.dafont.com/fr/dry-brush.font).
 
-<!-- ![Toys'R'Us](polices_01_aux/toysrus.png) -->
-
-Il faut les utiliser avec beaucoup de parcimonie parce qu'elles renvoient facilement un sentiment d'amateurisme ou de vulgarité.
-
-Conseil pour commencer : [Dry Brush](https://www.dafont.com/fr/dry-brush.font)
+Il faut les utiliser avec beaucoup de parcimonie, en sachant exactement quel résultat on veut obtenir, parce qu'elles renvoient facilement un sentiment d'amateurisme ou de vulgarité.
 
 ## Conseils typographiques importants
 
 ### Marier plusieurs polices
 
-Lorsqu'on marie plusieurs polices dans un visuel (par exemple entre un titre et un sous-titre, ou deux informations qui n'ont pas la même valeur, comme l'intervenant à un meeting et le lieu de rendez-vous), il faut privilégier le contraste, et ne surtout pas choisir deux polices qui se ressemblent. En général, on marie une police Sans Serif (pour l'information la plus importante) et une police Serif (en sous-titre). Il faut aussi varier les tailles, la graisse (l'une en "gras", l'autre non), et, éventuellement, les couleurs et la capitalisation (l'une en lettres capitales, l'autre non).
+Lorsqu'on marie plusieurs polices dans un visuel (par exemple entre un titre et un sous-titre), il faut privilégier le contraste, et ne surtout pas choisir deux polices qui se ressemblent. En général, on marie une police Sans Serif (pour l'information la plus importante) et une police Serif (en sous-titre). Il faut aussi varier les tailles, la graisse (l'une en "gras", l'autre non), et, éventuellement, les couleurs et la capitalisation (l'une en lettres capitales, l'autre non).
 
 Par contre, il faut limiter le nombre de polices différentes sur un même visuel. En général, 3 est un grand maximum (et quand on peut, il vaut mieux se contenter de 2).
 
