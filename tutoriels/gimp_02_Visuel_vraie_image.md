@@ -2,6 +2,14 @@
 
 Maintenant qu'on a appris à réaliser des visuels très simples (un slogan, un fond, un logo) dans le [précédent tutoriel](gimp_O1_Visuel_simple.md), on peut passer à l'étape suivante : des visuels avec de vraies images.
 
+## Sommaire
+
+* [Principe d'esthétique : le nombre d'or](#principe-desthétique--le-nombre-dor)
+* [Ouvrir une image](#ouvrir-une-image)
+* [Redimensionner l'image](#redimensionner-limage)
+* [Boucher les trous](#boucher-les-trous)
+* [Ajouter le texte et le logo en suivant les sections d'or](#ajouter-le-texte-et-le-logo-en-suivant-les-sections-dor)
+
 ## Principe d'esthétique : le nombre d'or
 
 L'œil humain est ainsi fait qu'il est particulièrement sensible à certaines proportions, et singulièrement au nombre d'or ϕ :
