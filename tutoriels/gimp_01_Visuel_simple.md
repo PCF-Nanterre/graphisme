@@ -2,7 +2,31 @@
 
 Ce tutoriel est prévu pour apprendre à utiliser les fonctions élémentaires de Gimp. Nous y réaliserons un visuel très simple : un texte sur fond uni, signé avec le logo du parti.
 
-Mais avant de commencer, pourquoi ce logiciel ? Il y a trois raisons majeures :
+## Sommaire
+
+* [Pourquoi Gimp et comment l'obtenir](#pourquoi-gimp-et-comment-lobtenir)
+* [Créer une nouvelle image et découvrir l'interface](#créer-une-nouvelle-image-et-découvrir-linterface)
+  + [Créer une nouvelle image](#créer-une-nouvelle-image)
+  + [Découvrir l'interface](#découvrir-linterface)
+* [Colorier l'arrière-plan](#colorier-larrière-plan)
+  + [Choisir une couleur](#choisir-une-couleur)
+  + [Colorier avec la couleur choisie](#colorier-avec-la-couleur-choisie)
+  + [Résultat après avoir colorié](#résultat-après-avoir-colorié)
+* [Écrire le texte](#écrire-le-texte)
+  + [Choisir la police du texte](#choisir-la-police-du-texte)
+  + [Choisir la taille du texte](#choisir-la-taille-du-texte)
+  + [Résultat après avoir écrit le texte](#résultat-après-avoir-écrit-le-texte)
+* [Signer avec le logo](#signer-avec-le-logo)
+  + [Se familiariser avec les calques](#se-familiariser-avec-les-calques)
+  + [Importer un nouveau calque](#importer-un-nouveau-calque)
+  + [Manipuler notre nouveau calque](#manipuler-notre-nouveau-calque)
+  + [Résultat après importation du logo](#résultat-après-importation-du-logo)
+* [Conclusion](#conclusion)
+  
+
+## Pourquoi Gimp et comment l'obtenir
+
+Avant de commencer, pourquoi ce logiciel ? Il y a trois raisons majeures :
 * Il est disponible gratuitement et légalement sur les trois systèmes d'exploitation principaux (Windows, MacOs, GNU/Linux), et peut donc facilement servir de standard entre des gens qui n'utilisent pas tou·te·s les mêmes solutions techniques (comme c'est notre cas au parti).
 * Même si son utilisation est plus austère, il permet d'obtenir des résultats comparables à ceux de la suite Adobe. C'est un logiciel puissant, même si on l'utilise ici pour faire des choses élémentaires.
 * C'est un logiciel libre, qui apporte donc des garanties fortes en termes de protection des données, de sécurité, etc.
@@ -98,7 +122,7 @@ Essayons d'obtenir un résultat comme celui-là :
 
 ## Signer avec le logo.
 
-### Sa familiariser avec les calques.
+### Se familiariser avec les calques.
 
 Jetons un œil au premier panneau à droite de l'image, qui liste les différents calques de l'image :
 
